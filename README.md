@@ -1,1 +1,1 @@
-# Karaoke
+# I developed a karaoke using JavaScript which displays lyrics while the music is playing. Using a file containing lyrics and timings to show them. I used Regex to sort timings and lyrics of the text file, and using AJAX method to display lyrics on the page.
